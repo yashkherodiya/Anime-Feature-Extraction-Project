@@ -17,5 +17,5 @@
 
 ## Author
 **Yash Kherodiya**
-** | ** [LinkedIn](https://www.linkedin.com/in/yash-kherodiya-83008128a)
-** | ** [GitHub](https://github.com/yashkherodiya)
+ | [LinkedIn](https://www.linkedin.com/in/yash-kherodiya-83008128a)
+ | [GitHub](https://github.com/yashkherodiya)
