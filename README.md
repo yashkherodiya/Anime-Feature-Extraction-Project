@@ -7,3 +7,10 @@
 5) which anime has the highest episode count
 6) animes with top 5 episode count
 7) which is the longest running anime
+
+## Tools Used
+
+- Python
+- Jupyter Notebook
+- pandas
+- Numpy
