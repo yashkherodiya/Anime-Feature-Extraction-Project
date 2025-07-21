@@ -16,6 +16,6 @@
 - Numpy
 
 ## Author
-Yash Kherodiya
-linkedIn: [Yash Kherodiya](https://www.linkedin.com/in/yash-kherodiya-83008128a)
-GitHub: [@yashkherodiya](https://github.com/yashkherodiya)
+**Yash Kherodiya**
+**linkedIn:** [Yash Kherodiya](https://www.linkedin.com/in/yash-kherodiya-83008128a)
+**GitHub:** [@yashkherodiya](https://github.com/yashkherodiya)
